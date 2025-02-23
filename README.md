@@ -49,12 +49,6 @@ image_processing_project/
 
 Installation
 
-Clone the Repository
-
-git clone https://github.com/your-repo/image-processing-system.git
-cd image-processing-system
-
-
 Install Dependencies
 
 pip install -r requirements.txt
