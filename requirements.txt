@@ -1,0 +1,8 @@
+Flask
+Celery
+pymssql
+SQLAlchemy
+requests
+pandas
+pillow
+redis
